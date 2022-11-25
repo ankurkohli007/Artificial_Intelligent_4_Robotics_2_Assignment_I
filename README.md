@@ -24,3 +24,11 @@ To design a plan we used a **LPG Planner**. LPG (Local search for Planning Graph
 
 The planner can be dowloaded from the given [link](https://lpg.unibs.it/lpg/).
 
+## Running
+
+To run the project, first clone the repository from [here](https://github.com/ankurkohli007/Artificial_Intelligent_4_Robotics_2_Assignment_I.git). After cloning the repository make sure the palnner file is executable if not execute the below command: 
+
+```sh
+chmod +x lpg
+```
+
