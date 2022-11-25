@@ -32,3 +32,35 @@ To run the project, first clone the repository from [here](https://github.com/an
 chmod +x lpg
 ```
 
+In order to run the program (lpg) it is necessary to specify the value of three parameters indicating ***a file containing a set of PDDL2.1 operators;*** ***a file containing a problem specification in PDDL2.1 (the facts of the initial and goal states);*** ***the maximum number of desired solutions***. This must be specified using: 
+
+* **o** -> operator file name
+* **f** -> problem file name
+* **n** -> maximum number of solution
+
+After the executable file execute the following commands for the four different problems:
+
+For problem 1:
+
+```sh
+./lpg -o warehousetaskplanner.pddl -f warehousetaskplannerproblem1.pddl -n 1
+```
+
+For problem 2:
+
+```sh
+./lpg -o warehousetaskplanner.pddl -f warehousetaskplannerproblem2.pddl -n 1
+```
+
+For problem 3:
+
+```sh
+./lpg -o warehousetaskplanner.pddl -f warehousetaskplannerproblem3.pddl -n 1
+```
+
+For problem 4:
+
+```sh
+./lpg -o warehousetaskplanner.pddl -f warehousetaskplannerproblem4.pddl -n 1
+```
+
