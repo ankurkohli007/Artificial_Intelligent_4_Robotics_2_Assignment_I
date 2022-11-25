@@ -24,6 +24,19 @@ To design a plan we used a **LPG Planner**. LPG (Local search for Planning Graph
 
 The planner can be dowloaded from the given [link](https://lpg.unibs.it/lpg/).
 
+## Methodology
+
+The movers always start from the loading bay, and distances for crates are provided as straight line distances. There is no risk of interference on the paths between different crates and the loading bay. 
+
+**Domain file:** It consists of one domain file name as ```warehousetaskplanner.pddl```. 
+
+**Problem file:** There four problem files name as ```warehousetaskplannerproblem1.pddl```, ```warehousetaskplannerproblem2.pddl```, ```warehousetaskplannerproblem3.pddl``` and ```warehousetaskplannerproblem4.pddl```.
+
+* **Problem 1:** In problem 1, there are 3 crates; crate, weight 70kg, 10 distance from loading bay, Fragile crate, weight 20kg, 20 distance from loading bay. Crate in group A for extension 1, and crate, weight 20kg, 20 distance from loading bay. Crate in group A for extension 1.
+* **Problem 2:** In problem 2, there are 4 crates; crate, weight 70kg, 10 distance from loading bay. Crate in group A for extension 1, Fragile crate, weight 80kg, 20 distance from loading bay. Crate in group A for extension 1, crate, weight 20kg, 20 distance from loading bay. Crate in group B for extension 1, and crate, weight 30kg, 10 distance from loading bay. Crate in group B for extension 1.
+* **Problem 3:** In problem 3, there are 4 crates; crate, weight 70kg, 20 distance from loading bay. Crate in group A for extension 1, Fragile crate, weight 80kg, 20 distance from loading bay. Crate in group A for extension 1, crate, weight 60kg, 30 distance from loading bay. Crate in group A for extension 1, and crate, weight 30kg, 10 distance from loading bay.
+* **Problem 4:** In problem 4, there are 6 crates; crate, weight 30kg, 20 distance from loading bay. Crate in group A for extension 1, Fragile crate, weight 20kg, 20 distance from loading bay. Crate in group A for extension 1, Fragile crate, weight 30kg, 10 distance from loading bay. Crate in group B for extension 1, Fragile crate, weight 20kg, 20 distance from loading bay. Crate in group B for extension 1, Fragile crate, weight 30kg, 30 distance from loading bay. Crate in group B for extension 1, and crate, weight 20kg, 10 distance from loading bay.
+
 ## Running
 
 To run the project, first clone the repository from [here](https://github.com/ankurkohli007/Artificial_Intelligent_4_Robotics_2_Assignment_I.git). After cloning the repository make sure the palnner file is executable if not execute the below command: 
