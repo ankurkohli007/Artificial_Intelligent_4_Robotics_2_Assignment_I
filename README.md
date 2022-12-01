@@ -39,7 +39,7 @@ The movers always start from the loading bay, and distances for crates are provi
 
 ## Running
 
-To run the project, first clone the repository from [here](https://github.com/ankurkohli007/Artificial_Intelligent_4_Robotics_2_Assignment_I.git). After cloning the repository make sure the palnner file is executable if not execute the below command: 
+To run the project, first clone the repository from [here](https://github.com/ankurkohli007/Artificial_Intelligent_4_Robotics_2_Assignment_I.git). After cloning the repository make sure the palnner file is executable, if not than make an executable by using the below command: 
 
 ```sh
 chmod +x lpg
