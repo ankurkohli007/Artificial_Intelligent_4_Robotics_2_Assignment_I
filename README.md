@@ -97,3 +97,32 @@ The figure above depicts the actions to solve the planner. Also, figure highligh
 (ii) Numeric Planning Problem: YES <br>
 (iii) Problem with Timed Initial Literals: NO <br>
 (iv) Problem with Derived Predicates: NO <br>
+
+**Evaluation function weights:** 
+
+(i) Action duration 1.00 <br>
+(ii) Action cost 0.00 <br>
+
+Below are the figures which shows the results after the plan computed.
+
+![alt text](image2.png)
+
+Figure above explains the results after the plan computation of Problem 1. It highlights the action duration i.e. action cost of the plan. Also, describes the plan execution such as mover robots performance to accomplish the goal.
+
+![alt text](image3.png)
+
+Above figure highlights the results after the plan computation of Problem 2. It highlights the action duration i.e. action cost of the plan. Also, describes the plan execution such as mover robots performance to accomplish the goal.
+
+![alt text](image4.png)
+
+Figure above depicts the results after the plan computation of Problem 3. It highlights the action duration i.e. action cost of the plan. Also, describes the plan execution such as mover robots performance to accomplish the goal.
+
+![alt text](image5.png)
+
+Above figure defines the results after the plan computation of Problem 4. It highlights the action duration i.e. action cost of the plan. Also, describes the plan execution such as mover robots performance to accomplish the goal.
+
+In the above figures it shows that mover robots is giving first priority to the fragile crates to carry from the initial position to the final position i.e. loading bay.
+
+## Conclusion
+
+Efficient and proper management of the commodities is the need of the hour in the logistics sector. Each and every company, be it a small-scale, medium-scale, or large-scale needs an efficient inventory management system. An automated warehouse providing the maximum efficiency would help these companies deal with the problem of capacity and storage. In the assigned task, we tried to address the problem by proposing and even simulating it which would provide a fruitful outcome. We organized the tasks according to the priority levels and the time assigned to each task was also taken into account thus enabling us to perform the given tasks within the specifications, safety levels, and time consumption. As we are already in the age of Artificial Intelligence, we can already see its impact on the tiniest of areas.
