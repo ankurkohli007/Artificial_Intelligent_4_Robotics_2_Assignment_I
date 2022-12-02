@@ -93,7 +93,7 @@ The figure above depicts the actions to solve the planner. Also, figure highligh
 
 **Analyzing Planning Problem:** 
 
-(i) Temporal Planning Problem: YES 
-(ii) Numeric Planning Problem: YES 
-(iii) Problem with Timed Initial Literals: NO 
-(iv) Problem with Derived Predicates: NO
+(i) Temporal Planning Problem: YES <br>
+(ii) Numeric Planning Problem: YES <br>
+(iii) Problem with Timed Initial Literals: NO <br>
+(iv) Problem with Derived Predicates: NO <br>
