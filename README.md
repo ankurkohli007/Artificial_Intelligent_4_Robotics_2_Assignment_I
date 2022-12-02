@@ -82,3 +82,18 @@ For problem 4:
 ./lpg -o warehousetaskplanner.pddl -f warehousetaskplannerproblem4.pddl -n 1
 ```
 Here, the aforementioned commands show that ```./lpg``` is the planner executable as mentioned above; **-o** is an operator file name i.e. domain file name as ```warehousetaskplanner.pddl```; **-f** is problem file name as ```warehousetaskplannerproblem1/2/3/4.pddl``` whereas, 1, 2, 3, & 4 are the number of problem files; and last but not the least **-n** is the number of solution i.e. 1 in this execution.  
+
+## Outcomes
+
+This section will describes the experimental results which shows the LPG performance using Numeric and temporal Planning problems. The production of LPG was carryout in terms not only CPU-time required to find a results but also the quality of plan computed. This will also defines that how the mover robots actions to carry the crates according to the groups for extension 1 and accomplishing the task. The mover robots starts from the loading bay and move towards the crates initial position i.e. crates at the warehouse. The mover robots will pick up the crates and drop at the loading bay. Now, at the loading bay loader robot will placed the crates on the conveyor belt.
+
+![alt text](image1.png)
+
+The figure above depicts the actions to solve the planner. Also, figure highlights the actions taken by the planer to solve the problems as below:
+
+**Analyzing Planning Problem:** 
+
+(i) Temporal Planning Problem: YES 
+(ii) Numeric Planning Problem: YES 
+(iii) Problem with Timed Initial Literals: NO 
+(iv) Problem with Derived Predicates: NO
