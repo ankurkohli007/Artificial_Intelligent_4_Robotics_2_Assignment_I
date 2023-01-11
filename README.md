@@ -91,12 +91,13 @@ This section will describes the experimental results which shows the LPG perform
 
 The figure above depicts the actions to solve the planner. Also, figure highlights the actions taken by the planer to solve the problems as below:
 
-**Analyzing Planning Problem:** 
-
-(i) Temporal Planning Problem: YES <br>
-(ii) Numeric Planning Problem: YES <br>
-(iii) Problem with Timed Initial Literals: NO <br>
-(iv) Problem with Derived Predicates: NO <br>
+* **Analyzing Planning Problem:** 
+<ul>
+<li>Temporal Planning Problem: YES </li>
+<li>Numeric Planning Problem: YES </li>
+<li>Problem with Timed Initial Literals: NO </li>
+<li>Problem with Derived Predicates: NO </li>
+</ul>
 
 **Evaluation function weights:** 
 
