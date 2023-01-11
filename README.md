@@ -99,11 +99,12 @@ The figure above depicts the actions to solve the planner. Also, figure highligh
       <li>Problem with Derived Predicates: NO </li>
       </ul>
 
-**Evaluation function weights:** 
-
-(i) Action duration 1.00 <br>
-(ii) Action cost 0.00 <br>
-
+* **Evaluation function weights:** 
+      <ul>
+      <li>Action duration 1.00</li>
+      <li>Action cost 0.00</li>
+      </ul>
+      
 Below are the figures which shows the results after the plan computed.
 
 ![alt text](image2.png)
