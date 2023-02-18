@@ -22,7 +22,11 @@ In this task, we considered the warehouse where we need to implement the AI Plan
 
 To design a plan we used a **LPG Planner**. LPG (Local search for Planning Graphs) ia a planner which is based on local search and planning graphs. These will grasps PDDL 2.1 domains. This PDDL 2.1 domains associates with numerical quantities and durations. This planner able to solve not only plan generation but also plan adaptation problems. The evaluation function uses some heuristics to estimate the "search cost" and the "execution cost" of achieving a (possibly numeric) precondition.
 
-The planner can be dowloaded from the given [link](https://lpg.unibs.it/lpg/).
+* **Note:** 
+      <ul>
+      <li>The planner can be dowloaded from the given [link](https://lpg.unibs.it/lpg/).</li>
+      <li>Also, to download the ***lpg++*** file of LPG Planner [click here](http://helios.hud.ac.uk/scommv/storage/lpg++).</li> 
+      <li>After downloading and installation of the planner and downloading of executable go to the directory **LPG-1.2-source** -> **LPG** paste the downloiaded executable here. Make sure ***lpg++*** is executable if not make it by using the command ```chmod +x lpg++```.   
 
 ## Methodology
 
@@ -47,7 +51,7 @@ git clone https://github.com/ankurkohli007/Artificial_Intelligent_4_Robotics_2_A
 After cloning the repository make sure the palnner file is executable, if not than make an executable by using the below command: 
 
 ```sh
-chmod +x lpg
+chmod +x lpg++
 ```
 
 In order to run the program (lpg) it is necessary to specify the value of three parameters indicating ***a file containing a set of PDDL2.1 operators;*** ***a file containing a problem specification in PDDL2.1 (the facts of the initial and goal states);*** ***the maximum number of desired solutions***. This must be specified using: 
