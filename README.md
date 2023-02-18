@@ -86,7 +86,7 @@ For problem 4:
 ```sh
 ./lpg++ -o warehousetaskplanner.pddl -f warehousetaskplannerproblem4.pddl -n 1
 ```
-Here, the aforementioned commands show that ```./lpg``` is the planner executable as mentioned above; **-o** is an operator file name i.e. domain file name as ```warehousetaskplanner.pddl```; **-f** is problem file name as ```warehousetaskplannerproblem1/2/3/4.pddl``` whereas, 1, 2, 3, & 4 are the number of problem files; and last but not the least **-n** is the number of solution i.e. 1 in this execution.  
+Here, the aforementioned commands show that ```./lpg++``` is the planner executable as mentioned above; **-o** is an operator file name i.e. domain file name as ```warehousetaskplanner.pddl```; **-f** is problem file name as ```warehousetaskplannerproblem1/2/3/4.pddl``` whereas, 1, 2, 3, & 4 are the number of problem files; and last but not the least **-n** is the number of solution i.e. 1 in this execution.  
 
 ## Outcomes
 
