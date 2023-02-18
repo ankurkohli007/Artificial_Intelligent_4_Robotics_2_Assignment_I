@@ -20,7 +20,7 @@ In this task, we considered the warehouse where we need to implement the AI Plan
 
 ## Installation of the planner
 
-To design a plan we used a **LPG Planner**. LPG (Local search for Planning Graphs) ia a planner which is based on local search and planning graphs. These will grasps PDDL 2.1 domains. This PDDL 2.1 domains associates with numerical quantities and durations. This planner able to solve not only plan generation but also plan adaptation problems. The evaluation function uses some heuristics to estimate the "search cost" and the "execution cost" of achieving a (possibly numeric) precondition.
+To design a plan we used a **LPG Planner**. LPG (Local search for Planning Graphs) ia a planner which is based on local search and planning graphs. These will grasps **PDDL 2.1 domains**. This PDDL 2.1 domains associates with numerical quantities and durations. This planner able to solve not only plan generation but also plan adaptation problems. The evaluation function uses some heuristics to estimate the "search cost" and the "execution cost" of achieving a (possibly numeric) precondition.
 
 * **Note:** 
       <ul>
