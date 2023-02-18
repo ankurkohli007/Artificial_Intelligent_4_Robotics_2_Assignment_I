@@ -26,7 +26,8 @@ To design a plan we used a **LPG Planner**. LPG (Local search for Planning Graph
       <ul>
       <li>The planner can be dowloaded from the given [link](https://lpg.unibs.it/lpg/).</li>
       <li>Also, to download the ***lpg++*** file of LPG Planner [click here](http://helios.hud.ac.uk/scommv/storage/lpg++).</li> 
-      <li>After downloading and installation of the planner and downloading of executable go to the directory **LPG-1.2-source** -> **LPG** paste the downloiaded executable here. Make sure ***lpg++*** is executable if not make it by using the command ```chmod +x lpg++```.   
+      <li>After downloading and installation of the planner and downloading of executable go to the directory **LPG-1.2-source** -> **LPG** paste the downloiaded executable here. Make sure ***lpg++*** is executable if not make it by using the command ```chmod +x lpg++```.</li> 
+      </ul>
 
 ## Methodology
 
