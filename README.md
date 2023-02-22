@@ -118,7 +118,7 @@ Below are the figures which shows the results after the plan computed.
 Figure above explains the results after the plan computation of Problem 1. It highlights the action duration i.e. action cost of the plan. Also, describes the plan execution such as mover robots performance to accomplish the goal. 
 
 <p align="center">
-  <img width="1000" height="260" src="https://github.com/ankurkohli007/Artificial_Intelligent_4_Robotics_2_Assignment_I/blob/60ffa0414f11bfcb12cdf6759f4b958930b14c2b/image6.png">
+  <img width="500" height="260" src="https://github.com/ankurkohli007/Artificial_Intelligent_4_Robotics_2_Assignment_I/blob/60ffa0414f11bfcb12cdf6759f4b958930b14c2b/image6.png">
 </p>
 
 Figure above shows the metric value, total time taken to compute the planner and so on.
