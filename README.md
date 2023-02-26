@@ -115,7 +115,7 @@ Below are the figures which shows the results after the plan computed.
 
 ![alt text](image2.png)
 
-Figure above explains the results after the plan computation of Problem 1. It highlights the action duration i.e. action cost of the plan. Also, describes the plan execution such as mover robots performance to accomplish the goal. 
+Figure above explains the results after the plan computation of **Problem 1**. It highlights the action duration i.e. action cost of the plan. Also, describes the plan execution such as mover robots performance to accomplish the goal. 
 
 <p align="center">
   <img width="500" height="260" src="https://github.com/ankurkohli007/Artificial_Intelligent_4_Robotics_2_Assignment_I/blob/60ffa0414f11bfcb12cdf6759f4b958930b14c2b/image6.png">
@@ -125,7 +125,7 @@ Figure above shows the metric value, total time taken to compute the planner and
 
 ![alt text](image3.png)
 
-Above figure highlights the results after the plan computation of Problem 2. It highlights the action duration i.e. action cost of the plan. Also, describes the plan execution such as mover robots performance to accomplish the goal.
+Above figure highlights the results after the plan computation of **Problem 2**. It highlights the action duration i.e. action cost of the plan. Also, describes the plan execution such as mover robots performance to accomplish the goal.
 
 <p align="center">
   <img width="500" height="260" src="https://github.com/ankurkohli007/Artificial_Intelligent_4_Robotics_2_Assignment_I/blob/bfe1952063dd90a000afebf7ce50f8725bc0cee3/image7.png">
@@ -135,7 +135,7 @@ Figure above shows the metric value, total time taken to compute the planner and
 
 ![alt text](image4.png)
 
-Figure above depicts the results after the plan computation of Problem 3. It highlights the action duration i.e. action cost of the plan. Also, describes the plan execution such as mover robots performance to accomplish the goal.
+Figure above depicts the results after the plan computation of **Problem 3**. It highlights the action duration i.e. action cost of the plan. Also, describes the plan execution such as mover robots performance to accomplish the goal.
 
 <p align="center">
   <img width="500" height="260" src="https://github.com/ankurkohli007/Artificial_Intelligent_4_Robotics_2_Assignment_I/blob/df889cc517e5e0c4a697d3e7449dc8efee2f2bb3/image8.png">
@@ -143,7 +143,7 @@ Figure above depicts the results after the plan computation of Problem 3. It hig
 
 ![alt text](image5.png)
 
-Above figure defines the results after the plan computation of Problem 4. It highlights the action duration i.e. action cost of the plan. Also, describes the plan execution such as mover robots performance to accomplish the goal.
+Above figure defines the results after the plan computation of **Problem 4**. It highlights the action duration i.e. action cost of the plan. Also, describes the plan execution such as mover robots performance to accomplish the goal.
 
 In the above figures it shows that mover robots is giving first priority to the fragile crates to carry from the initial position to the final position i.e. loading bay.
 
