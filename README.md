@@ -145,6 +145,10 @@ Figure above depicts the results after the plan computation of **Problem 3**. It
 
 Above figure defines the results after the plan computation of **Problem 4**. It highlights the action duration i.e. action cost of the plan. Also, describes the plan execution such as mover robots performance to accomplish the goal.
 
+<p align="center">
+  <img width="500" height="260" src="https://github.com/ankurkohli007/Artificial_Intelligent_4_Robotics_2_Assignment_I/blob/880b333afd2ad6d2809da0435c879ad1c051ea6b/image8.png">
+</p>
+
 In the above figures it shows that mover robots is giving first priority to the fragile crates to carry from the initial position to the final position i.e. loading bay.
 
 ## Conclusion
