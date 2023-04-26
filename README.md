@@ -1,6 +1,6 @@
 [Artificial Intelligence for Robotics II](https://corsi.unige.it/en/off.f/2022/ins/60237?codcla=10635)<br>
 [M.Sc Robotics Engineering](https://corsi.unige.it/corsi/10635)<br>
-[University of Genoa (UniGe)](https://unige.it/en)<br>
+[University of Genoa (UniGe), Italy](https://unige.it/en)<br>
 **Supervisor:** [Prof. Mauro Vallati](http://maurovallati.blogspot.com/)
 
 # AI4RO2_Assignment1: AI Planning
