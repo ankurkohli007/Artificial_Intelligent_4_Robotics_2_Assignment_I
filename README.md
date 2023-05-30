@@ -95,6 +95,10 @@ This section will describes the experimental results which shows the LPG perform
 
 ![alt text](image1.png)
 
+<p align="center">
+    <em>Actions of the planner</em>
+</p>
+
 The figure above depicts the actions to solve the planner. Also, figure highlights the actions taken by the planer to solve the problems as below:
 
 * **Analyzing Planning Problem:** 
