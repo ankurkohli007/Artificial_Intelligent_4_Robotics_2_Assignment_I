@@ -137,6 +137,10 @@ Figure above shows the metric value, total time taken to compute the planner and
 
 ![alt text](image3.png)
 
+<p align="center">
+    <em>Computation Result of Problem2</em>
+</p>
+
 Above figure highlights the results after the plan computation of **Problem 2**. It highlights the action duration i.e. action cost of the plan. Also, describes the plan execution such as mover robots performance to accomplish the goal.
 
 <p align="center">
