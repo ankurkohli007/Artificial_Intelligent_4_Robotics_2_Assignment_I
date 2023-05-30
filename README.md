@@ -183,6 +183,10 @@ Above figure defines the results after the plan computation of **Problem 4**. It
   <img width="500" height="260" src="https://github.com/ankurkohli007/Artificial_Intelligent_4_Robotics_2_Assignment_I/blob/880b333afd2ad6d2809da0435c879ad1c051ea6b/image8.png">
 </p>
 
+<p align="center">
+    <em>Metric Vale of Problem4</em>
+</p>
+
 In the above figures it shows that mover robots is giving first priority to the fragile crates to carry from the initial position to the final position i.e. loading bay.
 
 ## Conclusion
