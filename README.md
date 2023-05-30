@@ -129,6 +129,10 @@ Figure above explains the results after the plan computation of **Problem 1**. I
   <img width="500" height="260" src="https://github.com/ankurkohli007/Artificial_Intelligent_4_Robotics_2_Assignment_I/blob/60ffa0414f11bfcb12cdf6759f4b958930b14c2b/image6.png">
 </p>
 
+<p align="center">
+    <em>Metric Value of Problem1</em>
+</p>
+
 Figure above shows the metric value, total time taken to compute the planner and so on.
 
 ![alt text](image3.png)
