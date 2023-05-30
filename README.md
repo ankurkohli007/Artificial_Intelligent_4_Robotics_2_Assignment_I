@@ -119,6 +119,10 @@ Below are the figures which shows the results after the plan computed.
 
 ![alt text](image2.png)
 
+<p align="center">
+    <em>Computation Result of Problem1</em>
+</p>
+
 Figure above explains the results after the plan computation of **Problem 1**. It highlights the action duration i.e. action cost of the plan. Also, describes the plan execution such as mover robots performance to accomplish the goal. 
 
 <p align="center">
