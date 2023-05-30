@@ -166,7 +166,7 @@ Figure above depicts the results after the plan computation of **Problem 3**. It
 </p>
 
 <p align="center">
-    <em>Metric Value of Problem1</em>
+    <em>Metric Value of Problem3</em>
 </p>
 
 Figure above explains about the metric value, total time taken to compute the planner and so on.
