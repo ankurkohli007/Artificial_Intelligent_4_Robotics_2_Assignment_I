@@ -173,6 +173,10 @@ Figure above explains about the metric value, total time taken to compute the pl
 
 ![alt text](image5.png)
 
+<p align="center">
+    <em>Computation Result of Problem4</em>
+</p>
+
 Above figure defines the results after the plan computation of **Problem 4**. It highlights the action duration i.e. action cost of the plan. Also, describes the plan execution such as mover robots performance to accomplish the goal.
 
 <p align="center">
