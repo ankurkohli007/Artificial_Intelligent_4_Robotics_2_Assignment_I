@@ -184,8 +184,10 @@ Above figure defines the results after the plan computation of **Problem 4**. It
 </p>
 
 <p align="center">
-    <em>Metric Vale of Problem4</em>
+    <em>Optimality of the generated plan by Problem4</em>
 </p>
+
+Figure above shows the Optimality of the generated plan by Problem4.
 
 In the above figures it shows that mover robots is giving first priority to the fragile crates to carry from the initial position to the final position i.e. loading bay.
 
