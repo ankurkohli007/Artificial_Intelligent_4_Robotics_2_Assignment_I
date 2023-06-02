@@ -130,10 +130,10 @@ Figure above explains the results after the plan computation of **Problem 1**. I
 </p>
 
 <p align="center">
-    <em>Metric Value of Problem1</em>
+    <em>Optimality of the generated plan by Problem1</em>
 </p>
 
-Figure above shows the metric value, total time taken to compute the planner and so on.
+Figure above shows the optimality of the generated plan by Problem1.
 
 ![alt text](image3.png)
 
