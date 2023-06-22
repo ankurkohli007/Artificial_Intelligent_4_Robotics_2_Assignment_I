@@ -70,6 +70,7 @@ For problem 1:
 ```sh
 ./lpg++ -o warehousetaskplanner.pddl -f warehousetaskplannerproblem1.pddl -n 1
 ```
+* **Note:** As mentioned above if the one using lpg than the above command can be executed like ```./lpg -o warehousetaskplanner.pddl -f warehousetaskplannerproblem1.pddl -n 1```.
 
 For problem 2:
 
