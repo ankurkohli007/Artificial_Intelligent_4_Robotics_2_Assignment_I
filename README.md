@@ -55,6 +55,7 @@ After cloning the repository make sure the palnner file is executable, if not th
 ```sh
 chmod +x lpg++
 ```
+* **Note:** If the one using lpg than the aforementioned command can be executed like ```chmod +x lpg```. 
 
 In order to run the program (lpg) it is necessary to specify the value of three parameters indicating ***a file containing a set of PDDL2.1 operators;*** ***a file containing a problem specification in PDDL2.1 (the facts of the initial and goal states);*** ***the maximum number of desired solutions***. This must be specified using: 
 
